@@ -4,7 +4,7 @@
     <a href = "https://leeharry709.github.io/experience/">EXPERIENCE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     SKILLS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     PORTFOLIO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href=https://docs.google.com/viewer?url=https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.pdf>RESUME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href = "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.pdf">RESUME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     CONTACT</p>
 </h4>
 
